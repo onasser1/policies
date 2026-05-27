@@ -20,4 +20,4 @@ annotations:
   kyverno/kubernetesVersion: "1.35"
   kyverno/subject: "Pod"
 createdAt: "2026-05-13T17:40:00Z"
-digest: 2c9890db2ef11f01fad508360402f7601a22c33f87801864b115e5b68ca26185
+digest: 6fa49e150eb5fb9e69a9f13c161df2fdd261a0b42e4a349d2508c1d48da74c1d
